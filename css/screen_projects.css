@@ -21,7 +21,7 @@ div#page {
 
 nav > ul > li{
 	display: inline;
-	padding: 15px;
+	padding: 68px;
 	list-style: none;
 	font-size: 1.25em;
 }
@@ -78,6 +78,6 @@ h2{
 }
 
 #projects > ul {
-	margin-top: -5px;
+	margin-top: -10px;
 	margin-bottom: 35px;
 }
