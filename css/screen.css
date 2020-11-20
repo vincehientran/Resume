@@ -77,6 +77,6 @@ h2 {
 	font-family: 'Poppins', sans-serif;
 }
 
-body > a {
+body > div#page > a {
 	font-size: 1.2em;
 }
