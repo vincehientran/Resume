@@ -76,3 +76,7 @@ h2 {
 	margin-bottom: -10px;
 	font-family: 'Poppins', sans-serif;
 }
+
+body > a {
+	font-size: 1.2em;
+}
