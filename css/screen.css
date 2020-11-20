@@ -22,7 +22,6 @@ nav > ul > li{
 	padding: 15px;
 	list-style: none;
 	font-size: 1.25em;
-	padding-bottom: 30px;
 }
 
 nav a {
@@ -35,6 +34,7 @@ nav {
 	position: relative;
 	margin-top: -52px;
 	margin-left: -20px;
+	padding-bottom: 30px;
 }
 
 div#nav_background {
